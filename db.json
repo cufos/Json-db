@@ -1,0 +1,46 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "tittle": "JavaScript desde cero",
+      "price": "10",
+      "profesor": "Alvaro Felipe",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/87ce607a-520c-48c5-af89-6aac7cb85d6d.jpg"
+    },
+    {
+      "id": 2,
+      "tittle": "Phyton desde cero",
+      "price": "30",
+      "profesor": "Alezys Lozada",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/c708c2f9-2710-42bc-944b-bfad23b498cf.png"
+    },
+    {
+      "id": 3,
+      "tittle": "Html desde cero",
+      "price": "15",
+      "profesor": "Alvaro Felipe",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/312172bf-ddba-409b-9aa3-6bf4c758805e.jpg"
+    },
+    {
+      "id": 4,
+      "tittle": "Java desde cero",
+      "price": "40",
+      "profesor": "Alezys Lozada",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/152be9d3-4704-4639-b399-203a76a286c5.jpg"
+    },
+    {
+      "id": 5,
+      "tittle": "React desde cero",
+      "profesor": "Beto Quiroga",
+      "price": "20usd",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/4ff27f76-96a9-44ab-bb7f-ed0e17263e7c.png"
+    },
+    {
+      "id": 6,
+      "tittle": "PWA",
+      "profesor": "Alvaro Felipe",
+      "price": "35usd",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/e42d73fa-f777-424e-959d-743784952f89.jpg"
+    }
+  ]
+}
